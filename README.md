@@ -1,7 +1,6 @@
 # MoonRiver-Studio.github.io
 月河工作室 | 独立游戏开发者 | DragonRuby PC 游戏 | godot游戏
 
-<<<<<<< HEAD
 <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;">
   <div style="flex: 1; min-width: 300px; max-width: 450px;">
     <p><strong>月河工作室 | LXGW Version</strong></p>
@@ -23,5 +22,3 @@
   <br><br>
   <p>更多游戏信息请关注后续更新</p>
 </div>
-=======
->>>>>>> parent of 0bacacb (Update README.md)
